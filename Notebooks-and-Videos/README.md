@@ -10,3 +10,5 @@ Video 0 does not have a notebook, but will familiarize you with using Google Col
 * [Video 4: Lists](https://youtu.be/eigz3cI5myY) - [Notebook](https://github.com/hercodecamp/HERCODECAMP2020-Virtual/blob/master/Notebooks-and-Videos/Video4-Lists.ipynb)
 * [Video 5: Conditionals](https://youtu.be/tuFfA8s46ek) - [Notebook](https://github.com/hercodecamp/HERCODECAMP2020-Virtual/blob/master/Notebooks-and-Videos/Video5-Conditionals.ipynb)
 * [Video 6: Loops](https://youtu.be/5jm7eXWkGO8) - [Notebook](https://github.com/hercodecamp/HERCODECAMP2020-Virtual/blob/master/Notebooks-and-Videos/Video6-Loops.ipynb)
+
+To download the notebooks to your computer, right click on the links above and select "Save link as" (Chrome) or "Download linked file" (Safari). Watch Video 0 above to learn how to upload them into Google Colab and start coding!
