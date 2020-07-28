@@ -1,6 +1,6 @@
 # Notebooks and Videos
 
-These notebooks have empty code cells and ready for you to code along with us while watching the videos!
+These notebooks have empty code cells and are ready for you to code along with us while watching the videos!
 
 Video 0 does not have a notebook, but will familiarize you with using Google Colab.
 * [Video 0: Using Colab Notebooks](https://youtu.be/h_50hn5v5NA)
