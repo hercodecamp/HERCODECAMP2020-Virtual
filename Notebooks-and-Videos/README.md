@@ -4,7 +4,7 @@ These notebooks have empty code cells and are ready for you to code along with u
 
 Video 0 does not have a notebook, but will familiarize you with using Google Colab. The Rock-Paper-Scissors notebook does not have a corresponding video.
 
-Checkout the [laylist](https://www.youtube.com/watch?v=h_50hn5v5NA&list=PLPQBYTEsPZGMLASX7a3XJfL3Pi3ByxOfx) on youtube!
+Checkout the [playlist](https://www.youtube.com/watch?v=h_50hn5v5NA&list=PLPQBYTEsPZGMLASX7a3XJfL3Pi3ByxOfx) on youtube!
 
 | Topics | Videos | Notebooks |
 |---|---|---|
