@@ -4,7 +4,7 @@ These notebooks have empty code cells and are ready for you to code along with u
 
 Video 0 does not have a notebook, but will familiarize you with using Google Colab. The Rock-Paper-Scissors notebook does not have a corresponding video.
 
-[Playlist]() on youtube.
+Checkout the [laylist](https://www.youtube.com/watch?v=h_50hn5v5NA&list=PLPQBYTEsPZGMLASX7a3XJfL3Pi3ByxOfx) on youtube!
 
 | Topics | Videos | Notebooks |
 |---|---|---|
@@ -18,3 +18,5 @@ Video 0 does not have a notebook, but will familiarize you with using Google Col
 | Rock Paper Scissors game | | [RPS Notebook](https://github.com/hercodecamp/HERCODECAMP2020-Virtual/blob/master/Notebooks-and-Videos/Rock-Paper-Scissors.ipynb) |
 
 To download the notebooks to your computer, right click on the links above and select "Save link as" (Chrome) or "Download linked file" (Safari). Watch Video 0 above to learn how to upload them into Google Colab and start coding!
+
+Need answers? They can be found [here](https://github.com/hercodecamp/HERCODECAMP2020-Virtual/tree/master/Answers-to-Notebooks).
